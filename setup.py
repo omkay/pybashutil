@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pybashutil',
-    version='0.1',
+    version='0.2',
     author='Omar Khairat',
     author_email='omaralkhairat@gmail.com',
     packages = find_packages(),
