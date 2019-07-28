@@ -1,3 +1,3 @@
-from butil.util import *
-from butil.config import Config
+from pybashutil.util import *
+from pybashutil.config import Config
 
