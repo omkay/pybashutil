@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='bashutil',
+    name='pybashutil',
     version='0.1',
     author='Omar Khairat',
     author_email='omaralkhairat@gmail.com',
